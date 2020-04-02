@@ -1,0 +1,37 @@
+####  NAVIGATION  ####
+q 	for quit
+^G 	quit and cd
+quit and cd 	need this file quitcd.fish
+nn + start directory 	nn vueBox
+h j k l 	left, down, up, right
+& 	start dir
+- 	last visited dir
+g 	top
+G 	bottom
+~ 	go home
+
+####  PLAY WITH DIR  ####
+d 	show light mode
+/ 	search 
+^S 	run a command
+
+####  PLAY WITH FILE  ####
+D 	file details
+e 	open file with vim Edit in EDITOR=vim
+. 	toggle show hindden
+p 	preview file
+^S 	run a command
+
+####  ARCHIVE  ####
+f 	archive entry
+^F 	extract archive
+
+####  COPY PASTE ETC  ####
+space  will select the file
+^V  will move the file
+^P  will copy the file
+^X  will delete the file
+^Y  will select multiple files
+
+####  RENAME  ####
+Ctrl + r  to rename a file/dir

@@ -1,0 +1,15 @@
+U   G   W
+    rwx rwx rwx     chmod 777 filename      
+    rwx rwx r-x     chmod 775 filename
+    rwx r-x r-x     chmod 755 filename
+    rw- rw- r--     chmod 664 filename
+    rw- r-- r--     chmod 644 filename
+
+    U = User 
+    G = Group 
+    W = World
+
+    r = Readable
+    w = writable
+    x = executable 
+    - = no permission
